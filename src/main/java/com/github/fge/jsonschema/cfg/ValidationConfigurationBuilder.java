@@ -82,9 +82,9 @@ public final class ValidationConfigurationBuilder
     boolean useFormat = true;
     
     /**
-     * Cache maximum size of 4096 records by default
+     * Cache maximum size of 512 records by default
      */
-    int cacheSize = 4096;
+    int cacheSize = 512;
 
     /**
      * The set of syntax messages
