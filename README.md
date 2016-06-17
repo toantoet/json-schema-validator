@@ -1,12 +1,5 @@
-# This project is looking for a new maintainer
-
-I don't have the time, nor incentive anymore, to maintain this project.
-
-I am fully aware that there are now quite a few people/entities which use this project, as such I am
-looking fow a new maintainer, whether that be an individual or an entity, willing to take over.
-
-Please [contact me personally](mailto:fgaliegue@gmail.com) if you are interested. Ideally, you
-should be equally committed to this project **and** JSON Schema as a whole.
+# We are maintaining this branch
+As fge hasn't been around on his branch, we are accepting pull requests here and publishing to net.box.json-schema-validator.
 
 ## Read me first
 
