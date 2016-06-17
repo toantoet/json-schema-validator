@@ -1,5 +1,5 @@
 # We are maintaining this branch
-As fge hasn't been around on his branch, we are accepting pull requests here and publishing to net.box.json-schema-validator.
+As fge hasn't been around on his branch, we are accepting pull requests here and publishing to net.box.json-schema-validator.  If a point comes when fge returns we will try to get any patchset accepted here merged back into his branch.
 
 ## Read me first
 
